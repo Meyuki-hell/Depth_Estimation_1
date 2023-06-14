@@ -1,0 +1,35 @@
+C:\Users\minal\PycharmProjects\Multi_Scale_Deep_network\venv\Scripts\python.exe C:\Users\minal\PycharmProjects\Multi_Scale_Deep_network\train.py 
+1001 201
+> epoch 0 done, train_loss = 21.242416620254517, validation loss = 4.643034219741821
+> epoch 1 done, train_loss = 21.130601584911346, validation loss = 4.450199842453003
+> epoch 2 done, train_loss = 21.182453393936157, validation loss = 4.447770833969116
+> epoch 3 done, train_loss = 21.016679048538208, validation loss = 4.4177387952804565
+> epoch 4 done, train_loss = 21.01820594072342, validation loss = 4.438381791114807
+> epoch 5 done, train_loss = 21.007410764694214, validation loss = 4.465686738491058
+> epoch 6 done, train_loss = 21.043434739112854, validation loss = 4.474811911582947
+> epoch 7 done, train_loss = 21.156735718250275, validation loss = 4.569900155067444
+> epoch 8 done, train_loss = 21.06329870223999, validation loss = 4.461095750331879
+> epoch 9 done, train_loss = 20.987678349018097, validation loss = 4.416677474975586
+> epoch 10 done, train_loss = 21.132145702838898, validation loss = 4.419640779495239
+> epoch 11 done, train_loss = 21.021957278251648, validation loss = 4.42844033241272
+> epoch 12 done, train_loss = 21.117539048194885, validation loss = 4.459850907325745
+> epoch 13 done, train_loss = 21.08025860786438, validation loss = 4.526749074459076
+> epoch 14 done, train_loss = 21.155117452144623, validation loss = 4.49019056558609
+> epoch 15 done, train_loss = 21.166320830583572, validation loss = 4.6400187611579895
+> epoch 16 done, train_loss = 21.162107467651367, validation loss = 4.539079427719116
+> epoch 17 done, train_loss = 20.996391713619232, validation loss = 4.463364064693451
+> epoch 18 done, train_loss = 20.923138052225113, validation loss = 4.508674144744873
+> epoch 19 done, train_loss = 21.134729743003845, validation loss = 4.619995832443237
+> epoch 20 done, train_loss = 20.968854188919067, validation loss = 4.49352502822876
+> epoch 21 done, train_loss = 21.14556074142456, validation loss = 4.495061576366425
+> epoch 22 done, train_loss = 20.99738037586212, validation loss = 4.362206906080246
+> epoch 23 done, train_loss = 21.061388909816742, validation loss = 4.539567053318024
+> epoch 24 done, train_loss = 21.173329174518585, validation loss = 4.446986377239227
+> epoch 25 done, train_loss = 21.00156182050705, validation loss = 4.545239508152008
+> epoch 26 done, train_loss = 21.0544650554657, validation loss = 4.522609353065491
+> epoch 27 done, train_loss = 21.09140121936798, validation loss = 4.460693061351776
+> epoch 28 done, train_loss = 21.05904710292816, validation loss = 4.446137309074402
+> epoch 29 done, train_loss = 21.079496204853058, validation loss = 4.5240302085876465
+Time used:  2718.459483385086  per epoch used:  90.6153161128362
+> epoch 0 done, train_loss = 12.872845694422722, validation loss = 2.229413777589798
+> 
